@@ -1,252 +1,1000 @@
-﻿Field,numpub
-General Agricultural and Biological Sciences,264
-Agronomy and Crop Science,158
-Animal Science and Zoology,332
-Aquatic Science,90
-"Ecology, Evolution, Behavior and Systematics",1115
-Food Science,445
-Forestry,47
-Horticulture,22
-Insect Science,433
-Plant Science,1643
-Soil Science,320
-General Arts and Humanities,26
-History,1090
-Language and Linguistics,492
-Archeology,407
-Classics,266
-Conservation,114
-History and Philosophy of Science,557
-Literature and Literary Theory,1003
-Museology,146
-Music,152
-Philosophy,1079
-Religious studies,403
-Visual Arts and Performing Arts,269
-Aging,129
-Biochemistry,615
-Biophysics,737
-Biotechnology,354
-Cancer Research,1933
-Cell Biology,2852
-Clinical Biochemistry,473
-Developmental Biology,92
-Endocrinology,449
-Genetics,4493
-Molecular Biology,15388
-Molecular Medicine,264
-Physiology,544
-Structural Biology,150
-Accounting,2120
-Business and International Management,85
-Management Information Systems,888
-Management of Technology and Innovation,626
-Marketing,1165
-Organizational Behavior and Human Resource Management,928
-Strategy and Management,2326
-"Tourism, Leisure and Hospitality Management",74
-Industrial relations,2
-Bioengineering,256
-Catalysis,536
-Chemical Health and Safety,18
-Filtration and Separation,64
-Fluid Flow and Transfer Processes,268
-Process Chemistry and Technology,80
-Analytical Chemistry,243
-Electrochemistry,330
-Inorganic Chemistry,1063
-Organic Chemistry,2006
-Physical and Theoretical Chemistry,540
-Spectroscopy,2794
-Artificial Intelligence,3498
-Computational Theory and Mathematics,1364
-Computer Graphics and Computer-Aided Design,198
-Computer Networks and Communications,3101
-Computer Science Applications,527
-Computer Vision and Pattern Recognition,1572
-Hardware and Architecture,1136
-Human-Computer Interaction,335
-Information Systems,1814
-Signal Processing,890
-Software,624
-General Decision Sciences,273
-Information Systems and Management,970
-Management Science and Operations Research,1961
-"Statistics, Probability and Uncertainty",792
-Atmospheric Science,2361
-Earth-Surface Processes,365
-Geochemistry and Petrology,270
-Geology,114
-Geophysics,441
-Oceanography,892
-Paleontology,233
-Space and Planetary Science,48
-"General Economics, Econometrics and Finance",1132
-Economics and Econometrics,5323
-Finance,1866
-General Energy,13
-Energy Engineering and Power Technology,24
-Fuel Technology,3
-Nuclear Energy and Engineering,3
-"Renewable Energy, Sustainability and the Environment",748
-General Engineering,4
-Aerospace Engineering,2573
-Automotive Engineering,720
-Biomedical Engineering,6278
-Civil and Structural Engineering,1664
-Computational Mechanics,2085
-Control and Systems Engineering,2725
-Electrical and Electronic Engineering,6497
-Industrial and Manufacturing Engineering,464
-Mechanical Engineering,3359
-Mechanics of Materials,2185
-Ocean Engineering,752
-"Safety, Risk, Reliability and Quality",760
-Media Technology,845
-Building and Construction,715
-Architecture,252
-Ecological Modeling,163
-Ecology,2271
-Environmental Chemistry,598
-Environmental Engineering,1052
-Global and Planetary Change,2250
-"Health, Toxicology and Mutagenesis",797
-"Management, Monitoring, Policy and Law",554
-Nature and Landscape Conservation,822
-Pollution,327
-Industrial and Manufacturing Engineering,274
-Water Science and Technology,771
-Applied Microbiology and Biotechnology,83
-Immunology,3741
-Microbiology,464
-Parasitology,442
-Virology,337
-General Materials Science,91
-Biomaterials,629
-Ceramics and Composites,327
-"Electronic, Optical and Magnetic Materials",1196
-Materials Chemistry,5802
-Metals and Alloys,365
-Polymers and Plastics,456
-"Surfaces, Coatings and Films",590
-Algebra and Number Theory,562
-Applied Mathematics,655
-Computational Mathematics,47
-Discrete Mathematics and Combinatorics,318
-Geometry and Topology,1008
-Mathematical Physics,1080
-Modeling and Simulation,279
-Numerical Analysis,168
-Statistics and Probability,1117
-Theoretical Computer Science,58
-Anatomy,60
-Anesthesiology and Pain Medicine,508
-Biochemistry,190
-Cardiology and Cardiovascular Medicine,4911
-Critical Care and Intensive Care Medicine,707
-Complementary and alternative medicine,481
-Dermatology,711
-Emergency Medicine,1455
-"Endocrinology, Diabetes and Metabolism",3087
-Epidemiology,6436
-Family Practice,193
-Gastroenterology,462
-Genetics,1541
-Geriatrics and Gerontology,223
-Health Informatics,93
-Hematology,1288
-Hepatology,686
-Immunology and Allergy,1275
-Internal Medicine,371
-Infectious Diseases,2382
-Microbiology,9
-Nephrology,771
-Neurology,2596
-Obstetrics and Gynecology,708
-Oncology,4627
-Ophthalmology,652
-Orthopedics and Sports Medicine,1275
-Otorhinolaryngology,382
-Pathology and Forensic Medicine,2786
-"Pediatrics, Perinatology and Child Health",2495
-Pharmacology,1387
-Physiology,4531
-Psychiatry and Mental health,2171
-"Public Health, Environmental and Occupational Health",4521
-Pulmonary and Respiratory Medicine,6647
-"Radiology, Nuclear Medicine and Imaging",4285
-Rehabilitation,592
-Reproductive Medicine,1560
-Rheumatology,1626
-Surgery,10147
-Transplantation,271
-Urology,515
-Behavioral Neuroscience,429
-Biological Psychiatry,141
-Cellular and Molecular Neuroscience,3685
-Cognitive Neuroscience,3268
-Developmental Neuroscience,539
-Endocrine and Autonomic Systems,1394
-Neurology,856
-Sensory Systems,495
-"Issues, ethics and legal aspects",152
-Leadership and Management,10
-Nutrition and Dietetics,1354
-Research and Theory,44
-Pharmaceutical Science,194
-Pharmacology,364
-Toxicology,143
-Acoustics and Ultrasonics,14
-Astronomy and Astrophysics,5278
-Condensed Matter Physics,1224
-Instrumentation,1066
-Nuclear and High Energy Physics,4277
-"Atomic and Molecular Physics, and Optics",6010
-Radiation,1248
-Statistical and Nonlinear Physics,1199
-General Psychology,82
-Applied Psychology,778
-Clinical Psychology,3696
-Developmental and Educational Psychology,2139
-Experimental and Cognitive Psychology,2095
-Neuropsychology and Physiological Psychology,99
-Social Psychology,3925
-General Social Sciences,74
-Archeology,31
-Development,132
-Education,4552
-"Geography, Planning and Development",219
-Health,891
-Human Factors and Ergonomics,32
-Law,1368
-Library and Information Sciences,45
-Linguistics and Language,171
-Safety Research,1415
-Sociology and Political Science,6991
-Transportation,613
-Anthropology,1094
-Communication,489
-Cultural Studies,371
-Demography,801
-Gender Studies,1435
-Life-span and Life-course Studies,11
-Political Science and International Relations,4128
-Public Administration,168
-Urban Studies,212
-Equine,7
-Small Animals,205
-General Dentistry,15
-Oral Surgery,173
-Orthodontics,34
-Periodontics,56
-General Health Professions,3481
-Complementary and Manual Therapy,19
-Emergency Medical Services,846
-Health Information Management,297
-Medical Laboratory Technology,73
-Medical Terminology,11
-Occupational Therapy,259
-Pharmacy,423
-"Physical Therapy, Sports Therapy and Rehabilitation",264
-Radiological and Ultrasound Technology,323
-Speech and Hearing,527
+﻿Group,Field,numpub
+Agricultural and Biological Sciences,General Agricultural and Biological Sciences,264
+Agricultural and Biological Sciences,Agronomy and Crop Science,158
+Agricultural and Biological Sciences,Animal Science and Zoology,332
+Agricultural and Biological Sciences,Aquatic Science,90
+Agricultural and Biological Sciences,"Ecology, Evolution, Behavior and Systematics",1115
+Agricultural and Biological Sciences,Food Science,445
+Agricultural and Biological Sciences,Forestry,47
+Agricultural and Biological Sciences,Horticulture,22
+Agricultural and Biological Sciences,Insect Science,433
+Agricultural and Biological Sciences,Plant Science,1643
+Agricultural and Biological Sciences,Soil Science,320
+Arts and Humanities,General Arts and Humanities,26
+Arts and Humanities,History,1090
+Arts and Humanities,Language and Linguistics,492
+Arts and Humanities,Archeology,407
+Arts and Humanities,Classics,266
+Arts and Humanities,Conservation,114
+Arts and Humanities,History and Philosophy of Science,557
+Arts and Humanities,Literature and Literary Theory,1003
+Arts and Humanities,Museology,146
+Arts and Humanities,Music,152
+Arts and Humanities,Philosophy,1079
+Arts and Humanities,Religious studies,403
+Arts and Humanities,Visual Arts and Performing Arts,269
+"Biochemistry, Genetics and Molecular Biology",Aging,129
+"Biochemistry, Genetics and Molecular Biology",Biochemistry,615
+"Biochemistry, Genetics and Molecular Biology",Biophysics,737
+"Biochemistry, Genetics and Molecular Biology",Biotechnology,354
+"Biochemistry, Genetics and Molecular Biology",Cancer Research,1933
+"Biochemistry, Genetics and Molecular Biology",Cell Biology,2852
+"Biochemistry, Genetics and Molecular Biology",Clinical Biochemistry,473
+"Biochemistry, Genetics and Molecular Biology",Developmental Biology,92
+"Biochemistry, Genetics and Molecular Biology",Endocrinology,449
+"Biochemistry, Genetics and Molecular Biology",Genetics,4493
+"Biochemistry, Genetics and Molecular Biology",Molecular Biology,15388
+"Biochemistry, Genetics and Molecular Biology",Molecular Medicine,264
+"Biochemistry, Genetics and Molecular Biology",Physiology,544
+"Biochemistry, Genetics and Molecular Biology",Structural Biology,150
+"Business, Management and Accounting",Accounting,2120
+"Business, Management and Accounting",Business and International Management,85
+"Business, Management and Accounting",Management Information Systems,888
+"Business, Management and Accounting",Management of Technology and Innovation,626
+"Business, Management and Accounting",Marketing,1165
+"Business, Management and Accounting",Organizational Behavior and Human Resource Management,928
+"Business, Management and Accounting",Strategy and Management,2326
+"Business, Management and Accounting","Tourism, Leisure and Hospitality Management",74
+"Business, Management and Accounting",Industrial relations,2
+Chemical Engineering,Bioengineering,256
+Chemical Engineering,Catalysis,536
+Chemical Engineering,Chemical Health and Safety,18
+Chemical Engineering,Filtration and Separation,64
+Chemical Engineering,Fluid Flow and Transfer Processes,268
+Chemical Engineering,Process Chemistry and Technology,80
+Chemistry,Analytical Chemistry,243
+Chemistry,Electrochemistry,330
+Chemistry,Inorganic Chemistry,1063
+Chemistry,Organic Chemistry,2006
+Chemistry,Physical and Theoretical Chemistry,540
+Chemistry,Spectroscopy,2794
+Computer Science,Artificial Intelligence,3498
+Computer Science,Computational Theory and Mathematics,1364
+Computer Science,Computer Graphics and Computer-Aided Design,198
+Computer Science,Computer Networks and Communications,3101
+Computer Science,Computer Science Applications,527
+Computer Science,Computer Vision and Pattern Recognition,1572
+Computer Science,Hardware and Architecture,1136
+Computer Science,Human-Computer Interaction,335
+Computer Science,Information Systems,1814
+Computer Science,Signal Processing,890
+Computer Science,Software,624
+Decision Sciences,General Decision Sciences,273
+Decision Sciences,Information Systems and Management,970
+Decision Sciences,Management Science and Operations Research,1961
+Decision Sciences,"Statistics, Probability and Uncertainty",792
+Earth and Planetary Sciences,Atmospheric Science,2361
+Earth and Planetary Sciences,Earth-Surface Processes,365
+Earth and Planetary Sciences,Geochemistry and Petrology,270
+Earth and Planetary Sciences,Geology,114
+Earth and Planetary Sciences,Geophysics,441
+Earth and Planetary Sciences,Oceanography,892
+Earth and Planetary Sciences,Paleontology,233
+Earth and Planetary Sciences,Space and Planetary Science,48
+"Economics, Econometrics and Finance","General Economics, Econometrics and Finance",1132
+"Economics, Econometrics and Finance",Economics and Econometrics,5323
+"Economics, Econometrics and Finance",Finance,1866
+Energy,General Energy,13
+Energy,Energy Engineering and Power Technology,24
+Energy,Fuel Technology,3
+Energy,Nuclear Energy and Engineering,3
+Energy,"Renewable Energy, Sustainability and the Environment",748
+Engineering,General Engineering,4
+Engineering,Aerospace Engineering,2573
+Engineering,Automotive Engineering,720
+Engineering,Biomedical Engineering,6278
+Engineering,Civil and Structural Engineering,1664
+Engineering,Computational Mechanics,2085
+Engineering,Control and Systems Engineering,2725
+Engineering,Electrical and Electronic Engineering,6497
+Engineering,Industrial and Manufacturing Engineering,464
+Engineering,Mechanical Engineering,3359
+Engineering,Mechanics of Materials,2185
+Engineering,Ocean Engineering,752
+Engineering,"Safety, Risk, Reliability and Quality",760
+Engineering,Media Technology,845
+Engineering,Building and Construction,715
+Engineering,Architecture,252
+Environmental Science,Ecological Modeling,163
+Environmental Science,Ecology,2271
+Environmental Science,Environmental Chemistry,598
+Environmental Science,Environmental Engineering,1052
+Environmental Science,Global and Planetary Change,2250
+Environmental Science,"Health, Toxicology and Mutagenesis",797
+Environmental Science,"Management, Monitoring, Policy and Law",554
+Environmental Science,Nature and Landscape Conservation,822
+Environmental Science,Pollution,327
+Environmental Science,Industrial and Manufacturing Engineering,274
+Environmental Science,Water Science and Technology,771
+Immunology and Microbiology,Applied Microbiology and Biotechnology,83
+Immunology and Microbiology,Immunology,3741
+Immunology and Microbiology,Microbiology,464
+Immunology and Microbiology,Parasitology,442
+Immunology and Microbiology,Virology,337
+Materials Science,General Materials Science,91
+Materials Science,Biomaterials,629
+Materials Science,Ceramics and Composites,327
+Materials Science,"Electronic, Optical and Magnetic Materials",1196
+Materials Science,Materials Chemistry,5802
+Materials Science,Metals and Alloys,365
+Materials Science,Polymers and Plastics,456
+Materials Science,"Surfaces, Coatings and Films",590
+Mathematics,Algebra and Number Theory,562
+Mathematics,Applied Mathematics,655
+Mathematics,Computational Mathematics,47
+Mathematics,Discrete Mathematics and Combinatorics,318
+Mathematics,Geometry and Topology,1008
+Mathematics,Mathematical Physics,1080
+Mathematics,Modeling and Simulation,279
+Mathematics,Numerical Analysis,168
+Mathematics,Statistics and Probability,1117
+Mathematics,Theoretical Computer Science,58
+Medicine,Anatomy,60
+Medicine,Anesthesiology and Pain Medicine,508
+Medicine,Biochemistry,190
+Medicine,Cardiology and Cardiovascular Medicine,4911
+Medicine,Critical Care and Intensive Care Medicine,707
+Medicine,Complementary and alternative medicine,481
+Medicine,Dermatology,711
+Medicine,Emergency Medicine,1455
+Medicine,"Endocrinology, Diabetes and Metabolism",3087
+Medicine,Epidemiology,6436
+Medicine,Family Practice,193
+Medicine,Gastroenterology,462
+Medicine,Genetics,1541
+Medicine,Geriatrics and Gerontology,223
+Medicine,Health Informatics,93
+Medicine,Hematology,1288
+Medicine,Hepatology,686
+Medicine,Immunology and Allergy,1275
+Medicine,Internal Medicine,371
+Medicine,Infectious Diseases,2382
+Medicine,Microbiology,9
+Medicine,Nephrology,771
+Medicine,Neurology,2596
+Medicine,Obstetrics and Gynecology,708
+Medicine,Oncology,4627
+Medicine,Ophthalmology,652
+Medicine,Orthopedics and Sports Medicine,1275
+Medicine,Otorhinolaryngology,382
+Medicine,Pathology and Forensic Medicine,2786
+Medicine,"Pediatrics, Perinatology and Child Health",2495
+Medicine,Pharmacology,1387
+Medicine,Physiology,4531
+Medicine,Psychiatry and Mental health,2171
+Medicine,"Public Health, Environmental and Occupational Health",4521
+Medicine,Pulmonary and Respiratory Medicine,6647
+Medicine,"Radiology, Nuclear Medicine and Imaging",4285
+Medicine,Rehabilitation,592
+Medicine,Reproductive Medicine,1560
+Medicine,Rheumatology,1626
+Medicine,Surgery,10147
+Medicine,Transplantation,271
+Medicine,Urology,515
+Neuroscience,Behavioral Neuroscience,429
+Neuroscience,Biological Psychiatry,141
+Neuroscience,Cellular and Molecular Neuroscience,3685
+Neuroscience,Cognitive Neuroscience,3268
+Neuroscience,Developmental Neuroscience,539
+Neuroscience,Endocrine and Autonomic Systems,1394
+Neuroscience,Neurology,856
+Neuroscience,Sensory Systems,495
+Nursing,"Issues, ethics and legal aspects",152
+Nursing,Leadership and Management,10
+Nursing,Nutrition and Dietetics,1354
+Nursing,Research and Theory,44
+"Pharmacology, Toxicology and Pharmaceutics",Pharmaceutical Science,194
+"Pharmacology, Toxicology and Pharmaceutics",Pharmacology,364
+"Pharmacology, Toxicology and Pharmaceutics",Toxicology,143
+Physics and Astronomy,Acoustics and Ultrasonics,14
+Physics and Astronomy,Astronomy and Astrophysics,5278
+Physics and Astronomy,Condensed Matter Physics,1224
+Physics and Astronomy,Instrumentation,1066
+Physics and Astronomy,Nuclear and High Energy Physics,4277
+Physics and Astronomy,"Atomic and Molecular Physics, and Optics",6010
+Physics and Astronomy,Radiation,1248
+Physics and Astronomy,Statistical and Nonlinear Physics,1199
+Psychology,General Psychology,82
+Psychology,Applied Psychology,778
+Psychology,Clinical Psychology,3696
+Psychology,Developmental and Educational Psychology,2139
+Psychology,Experimental and Cognitive Psychology,2095
+Psychology,Neuropsychology and Physiological Psychology,99
+Psychology,Social Psychology,3925
+Social Sciences,General Social Sciences,74
+Social Sciences,Archeology,31
+Social Sciences,Development,132
+Social Sciences,Education,4552
+Social Sciences,"Geography, Planning and Development",219
+Social Sciences,Health,891
+Social Sciences,Human Factors and Ergonomics,32
+Social Sciences,Law,1368
+Social Sciences,Library and Information Sciences,45
+Social Sciences,Linguistics and Language,171
+Social Sciences,Safety Research,1415
+Social Sciences,Sociology and Political Science,6991
+Social Sciences,Transportation,613
+Social Sciences,Anthropology,1094
+Social Sciences,Communication,489
+Social Sciences,Cultural Studies,371
+Social Sciences,Demography,801
+Social Sciences,Gender Studies,1435
+Social Sciences,Life-span and Life-course Studies,11
+Social Sciences,Political Science and International Relations,4128
+Social Sciences,Public Administration,168
+Social Sciences,Urban Studies,212
+Veterinary,Equine,7
+Veterinary,Small Animals,205
+Dentistry,General Dentistry,15
+Dentistry,Oral Surgery,173
+Dentistry,Orthodontics,34
+Dentistry,Periodontics,56
+Health Professions,General Health Professions,3481
+Health Professions,Complementary and Manual Therapy,19
+Health Professions,Emergency Medical Services,846
+Health Professions,Health Information Management,297
+Health Professions,Medical Laboratory Technology,73
+Health Professions,Medical Terminology,11
+Health Professions,Occupational Therapy,259
+Health Professions,Pharmacy,423
+Health Professions,"Physical Therapy, Sports Therapy and Rehabilitation",264
+Health Professions,Radiological and Ultrasound Technology,323
+Health Professions,Speech and Hearing,527
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
